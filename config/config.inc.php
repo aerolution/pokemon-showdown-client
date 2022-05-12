@@ -6,7 +6,7 @@ $routes = json_decode(file_get_contents(__DIR__ . '/routes.json'), true);
 
 $psconfig = [
 
-	'sysops' => ['zarel'],
+	'sysops' => ['iseehallowdynes'],
 	'autolock_ip' => [],
 
 // password and SID hashing settings
